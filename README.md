@@ -8,4 +8,9 @@ Proyecto backend de facturacion cuyo objetivo es proveer servicios REST con las 
 - MySQL 5.x
 
 ### Generacion del proyecto base:
--  Desde Intellij
+-  Desde http://start.spring.io/
+
+### Endpoints de Facturas provistos:
+(GET) http://localhost:8080/facturas
+(GET) http://localhost:8080/facturas/{id}
+(POST) http://localhost:8080/facturas
