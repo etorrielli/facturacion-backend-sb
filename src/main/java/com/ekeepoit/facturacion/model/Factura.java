@@ -1,4 +1,4 @@
-package com.undec.facturacion.model;
+package com.ekeepoit.facturacion.model;
 
 import javax.persistence.*;
 import java.util.Date;

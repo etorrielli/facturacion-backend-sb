@@ -1,19 +1,18 @@
-package com.undec.facturacion.service;
+package com.ekeepoit.facturacion.service;
 
-import com.undec.facturacion.dto.DetalleDTO;
-import com.undec.facturacion.dto.FacturaDTO;
-import com.undec.facturacion.model.Detalle;
+import com.ekeepoit.facturacion.dto.DetalleDTO;
+import com.ekeepoit.facturacion.dto.FacturaDTO;
+import com.ekeepoit.facturacion.model.Detalle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
 
-import com.undec.facturacion.dto.Response;
-import com.undec.facturacion.model.Factura;
-import com.undec.facturacion.repository.*;
+import com.ekeepoit.facturacion.dto.Response;
+import com.ekeepoit.facturacion.model.Factura;
+import com.ekeepoit.facturacion.repository.*;
 
 
 /**

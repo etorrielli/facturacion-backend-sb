@@ -1,7 +1,7 @@
-package com.undec.facturacion.controller;
+package com.ekeepoit.facturacion.controller;
 
-import com.undec.facturacion.dto.Response;
-import com.undec.facturacion.service.ProductoService;
+import com.ekeepoit.facturacion.dto.Response;
+import com.ekeepoit.facturacion.service.ProductoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

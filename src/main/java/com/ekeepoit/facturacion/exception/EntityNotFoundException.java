@@ -1,4 +1,4 @@
-package com.undec.facturacion.exception;
+package com.ekeepoit.facturacion.exception;
 
 import org.springframework.util.StringUtils;
 

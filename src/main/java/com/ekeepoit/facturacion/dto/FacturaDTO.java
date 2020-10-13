@@ -1,4 +1,4 @@
-package com.undec.facturacion.dto;
+package com.ekeepoit.facturacion.dto;
 
 import java.util.List;
 

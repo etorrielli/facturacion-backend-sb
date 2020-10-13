@@ -1,7 +1,7 @@
-package com.undec.facturacion.repository;
+package com.ekeepoit.facturacion.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.undec.facturacion.model.Detalle;
+import com.ekeepoit.facturacion.model.Detalle;
 
 public interface DetalleRepository extends JpaRepository<Detalle, Integer> {
 }

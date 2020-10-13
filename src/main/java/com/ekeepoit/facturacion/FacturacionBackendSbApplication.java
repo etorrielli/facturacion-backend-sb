@@ -1,4 +1,4 @@
-package com.undec.facturacion;
+package com.ekeepoit.facturacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

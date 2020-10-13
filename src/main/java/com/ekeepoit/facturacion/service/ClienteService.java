@@ -1,4 +1,4 @@
-package com.undec.facturacion.service;
+package com.ekeepoit.facturacion.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,11 +7,9 @@ import org.springframework.stereotype.Service;
 
 import java.util.*;
 
-import com.undec.facturacion.dto.Response;
-import com.undec.facturacion.model.Cliente;
-import com.undec.facturacion.repository.*;
-
-import javax.persistence.EntityNotFoundException;
+import com.ekeepoit.facturacion.dto.Response;
+import com.ekeepoit.facturacion.model.Cliente;
+import com.ekeepoit.facturacion.repository.*;
 
 /**
  * @author etorrielli

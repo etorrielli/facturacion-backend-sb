@@ -1,4 +1,4 @@
-package com.undec.facturacion.dto;
+package com.ekeepoit.facturacion.dto;
 
 public class DetalleDTO {
 	
